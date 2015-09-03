@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Number"/>
+<fullyQualifiedTypeName name="TwoSum"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.nio.charset.MalformedInputException"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.sql.Time"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.LinkageError"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.ThreadPolicyOperations"/>
+<fullyQualifiedTypeName name="PalindromeNumber"/>
+<fullyQualifiedTypeName name="AddTwoNumbers"/>
+<fullyQualifiedTypeName name="LinkNode"/>
+<fullyQualifiedTypeName name="javax.swing.text.AbstractDocument.LeafElement"/>
+<fullyQualifiedTypeName name="ListNode"/>
+<fullyQualifiedTypeName name="SingleNumber"/>
+<fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
+<fullyQualifiedTypeName name="SingleNumberII"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.RequestingUserName"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="Test"/>
+<fullyQualifiedTypeName name="A"/>
+<fullyQualifiedTypeName name="B"/>
+<fullyQualifiedTypeName name="java.util.FormatFlagsConversionMismatchException"/>
+<fullyQualifiedTypeName name="edu.cjy.String.LongestSubstring"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="edu.nju.cjy.arrays.MaxSum"/>
+<fullyQualifiedTypeName name="edu.nju.cjy.arrays.CycleMaxSum"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+</qualifiedTypeNameHistroy>

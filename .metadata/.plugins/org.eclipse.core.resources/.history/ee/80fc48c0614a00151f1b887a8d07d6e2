@@ -1,0 +1,20 @@
+package edu.nju.cjy.arrays;
+
+public class CycleMaxSum {
+	public int getMaxSum(int[] nums){
+		int max=0;
+		int min=0;
+		int resultMax=0;
+		int resultMin=0;
+		int sum=0;
+		for (int i = 0; i < nums.length; i++) {
+			sum+=nums[i];
+			resultMax=Math.max(resultMax+nums[i], nums[i]);
+			max=resultMax>max?resultMax:max;
+			resultMin=Math.min(resultMin+nums[i], nums[i]);
+			min=resultMin<min?resultMin:min;
+		}
+		int cycleMax= sum-resultMin;
+		return Math.max(max, cycleMax);
+	}
+}
